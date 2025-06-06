@@ -25,8 +25,8 @@ A lightweight desktop tool to review a folder full of videos and tag each one as
 Install dependencies:
 ```bash
 pip install ffpyplayer pillow
-
-## 🚀 Usage
+```
+## Usage
 
 Run the script:
 
@@ -42,7 +42,7 @@ Then:
 - Use keyboard shortcuts for speed (`K`, `T`, `S`, `Space`, `Enter`).
 
 
-## 📁 Output Files
+## Output Files
 
 ```text
 reviewed.json     # Tracks which videos have been reviewed
@@ -51,7 +51,7 @@ trash/            # Contains videos marked as 'trash'
 
 ---
 
-## 🛠 Project Structure
+## Project Structure
 
 ```text
 video-reviewer/
